@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Welcome to Statify!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-In the project directory, you can run:
+If you wish to run this, once you have downloaded the files and made your way to the project directory, you can run:
 
 ### `npm start`
 
