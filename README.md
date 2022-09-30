@@ -1,5 +1,20 @@
 # Welcome to Statify!
 
+## UI Example
+
+If you dont want to go through the hassle of downloading this and running it yourself, these 3 pictures run you through the app.
+
+![image](https://user-images.githubusercontent.com/94123711/193327670-b5249ff5-38b4-4c75-8c20-ea56028959f2.png)
+This is the homepage from which you log in to spotify to link to the application.
+
+![authentication](https://user-images.githubusercontent.com/94123711/193328007-2ff774c8-4f75-4baf-8c68-8e59933ac2c8.png)
+This is the spotify authentication page where you log in to your spotify and grant access to your data to the application.
+
+![dashboard](https://user-images.githubusercontent.com/94123711/193328201-3f2057ae-6760-416e-9299-2390e09904af.png)
+This is the page dashboard, which greets you good morning or good afternoon based on the time of day along with the username of the account that you are logged into.
+Pressing on the button will obtain your top 10 songs.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
