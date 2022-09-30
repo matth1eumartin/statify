@@ -1,0 +1,16 @@
+.log-in-button {
+    font-family: Gotham-Black, serif;
+    background-color: #1DB954;
+    border-radius: 80px;
+    text-align: center;
+    font-size: 16px;
+    margin: 20px;
+    width: 200px;
+    height: 60px;
+}
+
+.log-in-button:hover {
+    height: 62px;
+    width: 204px;
+    background-color: #1bbf54c5;
+}
